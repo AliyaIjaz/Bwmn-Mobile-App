@@ -1,8 +1,8 @@
 {
   "project_info": {
-    "project_number": "1050488482283",
-    "project_id": "bwmn-mobile",
-    "storage_bucket": "bwmn-mobile.appspot.com"
+    "project_number": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
@@ -14,13 +14,13 @@
       },
       "oauth_client": [
         {
-          "client_id": "1050488482283-h6sjmtmius2ep6poomuboso04hh73vo9.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD3_5LekdJAwastEYOAA0vLjmAsdlDnvlE"
+          "current_key": ""
         }
       ],
       "services": {
