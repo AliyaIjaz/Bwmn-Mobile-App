@@ -1,42 +1,36 @@
 {
   "project_info": {
-    "project_number": "",
-    "firebase_url": "",
-    "project_id": "",
-    "storage_bucket": ""
+    "project_number": "1050488482283",
+    "project_id": "bwmn-mobile",
+    "storage_bucket": "bwmn-mobile.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:111111111111:android:1111111111111111",
+        "mobilesdk_app_id": "1:1050488482283:android:b5790a8c6e8d25edbe11ae",
         "android_client_info": {
-          "package_name": "com.moodle.moodlemobile"
+          "package_name": "com.bwmn.bwmnmobile"
         }
       },
       "oauth_client": [
         {
-          "client_id": "",
+          "client_id": "1050488482283-h6sjmtmius2ep6poomuboso04hh73vo9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": ""
-        },
-        {
-          "current_key": ""
+          "current_key": "AIzaSyD3_5LekdJAwastEYOAA0vLjmAsdlDnvlE"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050488482283-h6sjmtmius2ep6poomuboso04hh73vo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

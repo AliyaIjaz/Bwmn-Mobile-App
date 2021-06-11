@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
+  "name": "bwmnmobile",
   "version": "3.9.4",
-  "description": "The official app for Moodle.",
+  "description": "The official app for BWMN.",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "BWMN Organization",
+    "email": "pmo@betterworldmakers.org"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
@@ -186,7 +186,7 @@
       "cordova-plugin-badge": {},
       "cordova-plugin-camera": {},
       "cordova-plugin-customurlscheme": {
-        "URL_SCHEME": "moodlemobile"
+        "URL_SCHEME": "bwmnmobile"
       },
       "cordova-plugin-device": {},
       "cordova-plugin-file": {},
