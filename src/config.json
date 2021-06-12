@@ -1,7 +1,7 @@
 {
-    "app_id": "com.moodle.moodlemobile",
+    "app_id": "com.bwmn.bwmnmobile",
     "appname": "BWMN",
-    "desktopappname": "Moodle Desktop",
+    "desktopappname": "Bwmn Desktop",
     "versioncode": 3940,
     "versionname": "3.9.4",
     "cache_update_frequency_usually": 420000,
@@ -70,7 +70,7 @@
         75.89,
         93.75
     ],
-    "customurlscheme": "moodlemobile",
+    "customurlscheme": "bwmnmobile",
     "siteurl": "https://betterworldmakers.org",
     "sitename": "BETTER WORLD MAKERS",
     "multisitesdisplay": "",
@@ -84,7 +84,7 @@
     "statusbarlighttext": false,
     "statusbarbgios": "#f98012",
     "statusbarlighttextios": true,
-    "statusbarbgandroid": "#df7310",
+    "statusbarbgandroid": "#8f0375",
     "statusbarlighttextandroid": true,
     "statusbarbgremotetheme": "#000000",
     "statusbarlighttextremotetheme": true,
@@ -94,7 +94,7 @@
     "forceLoginLogo": false,
     "ioswebviewscheme": "moodleappfs",
     "appstores": {
-        "android": "com.moodle.moodlemobile",
+        "android": "com.bwmn.bwmnmobile",
         "ios": "id633359593",
         "windows": "moodle-desktop\/9p9bwvhdc8c8",
         "mac": "id1255924440",
