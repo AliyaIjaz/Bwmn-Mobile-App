@@ -230,8 +230,8 @@
   },
   "main": "desktop/electron.js",
   "build": {
-    "appId": "com.moodle.moodledesktop",
-    "productName": "Moodle Desktop",
+    "appId": "com.bwmn.bwmndesktop",
+    "productName": "BWMN Desktop",
     "files": [
       "desktop/electron.js",
       "www/**/*",
@@ -252,9 +252,9 @@
     },
     "protocols": [
       {
-        "name": "Moodle Mobile URL",
+        "name": "Bwmn Mobile URL",
         "schemes": [
-          "moodlemobile"
+          "bwmnmobile"
         ],
         "role": "Viewer"
       }
