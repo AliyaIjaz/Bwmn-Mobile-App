@@ -186,7 +186,7 @@
       "cordova-plugin-badge": {},
       "cordova-plugin-camera": {},
       "cordova-plugin-customurlscheme": {
-        "URL_SCHEME": "bwmnmobile"
+        "URL_SCHEME": "moodlemobile"
       },
       "cordova-plugin-device": {},
       "cordova-plugin-file": {},
@@ -254,7 +254,7 @@
       {
         "name": "Bwmn Mobile URL",
         "schemes": [
-          "bwmnmobile"
+          "moodlemobile"
         ],
         "role": "Viewer"
       }

@@ -2,7 +2,7 @@
 <widget android-versionCode="39400" id="com.bwmn.bwmnmobile" ios-CFBundleVersion="3.9.4.0" version="3.9.4" versionCode="39400" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>BWMN</name>
     <description>Bwmn official app</description>
-    <author email="pmo@betterworldmakers.org" href="http://moodle.com">Moodle Mobile team</author>
+    <author email="pmo@betterworldmakers.org" href="https://betterworldmakers.org">Pmo Mobile team</author>
     <content src="index.html" />
     <access origin="*" />
     <access launch-external="yes" origin="tel:*" />
@@ -27,7 +27,7 @@
     <preference name="UIWebViewBounce" value="false" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="prerendered-icon" value="true" />
-    <preference name="AppendUserAgent" value="MoodleMobile" />
+    <preference name="AppendUserAgent" value="BwmnMobile" />
     <preference name="BackupWebStorage" value="none" />
     <preference name="ScrollEnabled" value="false" />
     <preference name="KeyboardDisplayRequiresUserAction" value="false" />
