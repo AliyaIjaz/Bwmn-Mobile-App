@@ -136,7 +136,6 @@
     "@types/node": "^8.10.59",
     "@types/promise.prototype.finally": "^2.0.4",
     "acorn": "^5.7.4",
-    "cordova-android": "^9.1.0",
     "cordova-plugin-geolocation": "github:apache/cordova-plugin-geolocation",
     "cordova-plugin-inappbrowser": "github:moodlemobile/cordova-plugin-inappbrowser#moodle",
     "cordova-plugin-ionic-webview": "github:moodlemobile/cordova-plugin-ionic-webview",
@@ -174,9 +173,7 @@
     "electron": false
   },
   "cordova": {
-    "platforms": [
-      "android"
-    ],
+    "platforms": [],
     "plugins": {
       "com-darryncampbell-cordova-plugin-intent": {},
       "cordova-android-support-gradle-release": {
