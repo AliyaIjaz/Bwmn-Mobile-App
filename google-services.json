@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1050488482283:android:b5790a8c6e8d25edbe11ae",
+        "mobilesdk_app_id": "1:1111111111111:android:b5790a8c111111111111ae",
         "android_client_info": {
           "package_name": "com.bwmn.bwmnmobile"
         }
@@ -27,7 +27,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1050488482283-h6sjmtmius2ep6poomuboso04hh73vo9.apps.googleusercontent.com",
+              "client_id": "1111111111113-h6sjmtmius2ep6jhgtfrdeo04hh73vo9.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
